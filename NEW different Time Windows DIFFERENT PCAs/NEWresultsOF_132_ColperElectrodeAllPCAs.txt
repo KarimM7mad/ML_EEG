@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------------------------------------------
+Started Working on File->Fatema.csv
+Getting File Content
+Number OF Columns KEPT=132
+Training Features Shape:(401, 1848)
+Testing Features Shape:(198, 1848)
+Started PCA
+Finished PCA
+Finished Working on File->Fatema.csv in 0:00:05
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+Started Working on File->Hesham2.csv
+Getting File Content
+Number OF Columns KEPT=132
+Training Features Shape:(379, 1848)
+Testing Features Shape:(188, 1848)
+Started PCA
+Finished PCA
+Finished Working on File->Hesham2.csv in 0:00:04
+-----------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+Started Working on File->Mohamed Wagih.csv
+Getting File Content
+Number OF Columns KEPT=132
+Training Features Shape:(229, 1848)
+Testing Features Shape:(113, 1848)
+Started PCA
